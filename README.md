@@ -1,8 +1,8 @@
-<center>
-<h1>Ramon Facchin</h1>
-<em>33 Years, Software Engineer</em><br/>
-<em>Florianópolis, Santa Catarina, Brazil</em>
-</center>
+# Ramon Facchin
+
+*33 Years, Software Engineer*
+
+*Florianópolis, Santa Catarina, Brazil*
 
 ## About
 
